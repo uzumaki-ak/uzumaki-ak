@@ -1,7 +1,7 @@
 <h1 align="center">Hey!, I'm Anikesh Kumar</h1>
 <h3 align="center">A skilled MERN Stack developer from India, focused on building seamless, user-friendly web applications with efficient front-end interfaces and reliable back-end functionality.</h3>
 
-- >: I’m currently working on **Digital Market Agency**
+- >: I’m currently working on a project called **Digital Market Agency**
 
 - -> I’m currently learning **Next.js , TypeScript**
 
