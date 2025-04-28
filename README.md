@@ -1,9 +1,10 @@
 <h1 align="center">Hey!, I'm Anikesh Kumar</h1>
+my portfolio:https://portfolio-su1c-one.vercel.app/
 <h3 align="center">A skilled MERN Stack + Next.js developer from India, focused on building seamless, user-friendly web applications with efficient front-end interfaces and reliable back-end functionality.</h3>
 
 - >: I’m currently working on a project called **project helper with ai integration**
 
-- -> I’m currently learning ** , TypeScript**
+
 
 - ⌁ I’m looking to help you on **Any MERN stack projects as well as next.js**
 
