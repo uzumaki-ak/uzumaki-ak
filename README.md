@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anikesh Kumar</h1>
+<h1 align="center">Heyyy, I'm Anikesh Kumar</h1>
 <p align="center">
   <b>MERN + Next.js 15 | TypeScript | AI-Driven Product Builder | Passionate about solving real-world problems through tech</b>
 </p>
