@@ -3,7 +3,7 @@
   <b>MERN + Next.js 15 | TypeScript | AI-Driven Product Builder | Passionate about solving real-world problems through tech</b>
 </p>
 <p align="center">
-  <a href="https://portfolio-su1c-one.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://anikesh-portfolio.vercel.app/" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:anikeshuzumaki@gmail.com">📧 Email</a> •
   <a href="https://github.com/uzumaki-ak" target="_blank">🐙 GitHub</a>
 </p>
