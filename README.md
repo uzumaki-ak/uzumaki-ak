@@ -12,7 +12,6 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently building: **FinGenies** – An AI-powered finance management app tailored to Indian financial habits.  
 - 🌱 Exploring: AI integrations with real-time analytics, WebSockets, gamified UX, and microservice architecture using Docker.  
 - 💬 Ask me about: **Next.js 15, TypeScript, Prisma, Supabase, Zustand, TRPC, Docker, Mongo/PostgreSQL**  
 - 🚀 Fun fact: I adapt fast — I’m a generalist who goes deep when needed.
@@ -20,6 +19,12 @@
 ---
 
 ## 💼 Featured Projects
+
+
+### 🔹 [Readme-Generator](https://github.com/uzumaki-ak/readme-creator-mini-coderabbit) · [Live Demo](https://readme-creator-mini-coderabbit-cel8.vercel.app//)
+- readme-generator-webapp is a sleek, Next.js-based web application designed to help developers craft comprehensive and professional README files with ease.
+- Leveraging a rich set of UI components, theme customization, and integrated API routes,
+- this tool streamlines documentation creation, making it accessible even for beginners.
 
 ### 🔹 [FinGenies](https://github.com/uzumaki-ak/fin-genies) · [Live Demo](https://fin-genies-kdzp.vercel.app/)
 > 📱 An AI-first Indian finance management app solving budgeting, investment, tax saving & EMI management.
@@ -74,7 +79,7 @@
 
 ![Anikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzumaki-ak&show_icons=true&theme=tokyonight&hide=contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzumaki-ak&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=uzumaki-ak&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uzumaki-ak)](https://git.io/streak-stats)
 
 ---
 
