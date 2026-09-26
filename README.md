@@ -365,13 +365,6 @@ Production web systems covering education / institutional workflows and public-f
 </td>
 <td width="50%" valign="top">
 
-**WEBDESINO**
-
-Next.js-powered production business platform with **1K+ daily visits** at observed traffic levels.
-
-<a href="https://webdesino.com/">webdesino.com →</a>
-
-</td>
 </tr>
 </table>
 
