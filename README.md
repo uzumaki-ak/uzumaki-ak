@@ -540,10 +540,10 @@ A reflection on moving from being the person competing in hackathons to helping 
 <td width="38%" align="center" valign="middle">
 
 <img
-  src="http://giphy.com/gifs/yui-k-on-YgoDFZkoZS5Gw"
+  src="https://media.giphy.com/media/YgoDFZkoZS5Gw/giphy.gif"
   width="96%"
-  alt="Darling in the Franxx - Zero Two"
-  />
+  alt="K-On! - Yui"
+/>
 
 </td>
 </tr>
