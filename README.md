@@ -20,11 +20,13 @@ Anime map:
 -->
 
 <p align="center">
+<p align="center">
   <img
-    src="https://media.giphy.com/media/hzriiVlzAuRyvlp0u2/giphy.gif"
+    src="https://media.giphy.com/media/8PBqNlzr8VrqHmYkR3/giphy.gif"
     width="100%"
-    alt="Bleach TYBW - Ichigo in the rain"
+    alt="mikuuuuuuuuuuu"
   />
+</p>
 </p>
 
 <h1 align="center">ANIKESH KUMAR</h1>
