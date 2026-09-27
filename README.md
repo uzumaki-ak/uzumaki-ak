@@ -20,13 +20,12 @@ Anime map:
 -->
 
 <p align="center">
-<p align="center">
+
   <img
     src="https://media.giphy.com/media/8PBqNlzr8VrqHmYkR3/giphy.gif"
     width="100%"
     alt="mikuuuuuuuuuuu"
   />
-</p>
 </p>
 
 <h1 align="center">ANIKESH KUMAR</h1>
