@@ -20,11 +20,10 @@ Anime map:
 -->
 
 <p align="center">
-
   <img
-    src="https://media.giphy.com/media/8PBqNlzr8VrqHmYkR3/giphy.gif"
+    src="./assets/miku.gif"
     width="100%"
-    alt="mikuuuuuuuuuuu"
+    alt="Miku hero banner"
   />
 </p>
 
