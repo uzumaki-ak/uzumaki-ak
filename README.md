@@ -473,10 +473,10 @@ Worked in a six-person Git/GitHub development workflow across reviews, design-to
 <td width="35%" align="center" valign="middle">
 
 <img
-  src="https://media.giphy.com/media/4Hc0JQQCtsnXEmS3fN/giphy.gif"
+  src="./assets/oregairu-tech-stack.gif"
   width="96%"
-  alt="My Dress-Up Darling - Marin"
-  />
+  alt="Oregairu tech stack animation"
+/>
 
 </td>
 </tr>
