@@ -107,10 +107,10 @@ I like building things that are useful, weird, technically interesting — ideal
 <td width="38%" align="center" valign="middle">
 
 <img
-  src="https://media.giphy.com/media/kbRdf2haH2iv2mqgPH/giphy.gif"
+  src="./assets/komi-replacement.gif"
   width="92%"
-  alt="Komi Can't Communicate"
-  />
+  alt="Anime animation"
+/>
 
 </td>
 </tr>
