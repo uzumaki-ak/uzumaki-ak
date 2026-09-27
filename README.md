@@ -107,7 +107,7 @@ I like building things that are useful, weird, technically interesting — ideal
 <td width="38%" align="center" valign="middle">
 
 <img
-  src="./assets/komi-replacement.gif"
+  src="./assets/komi_replacement_full_31s.gif"
   width="92%"
   alt="Anime animation"
 />
