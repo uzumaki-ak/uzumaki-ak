@@ -355,6 +355,22 @@ Used by **1K+ users / visitors** at production scale.
 <tr>
 <td width="50%" valign="top">
 
+
+**SELLER-LABELS**
+
+Production label normalizer platform built with Python+Next.js stack.
+
+Used by **100s+ users / visitors** at production scale.
+
+<a href="sellerlabel.in">sellerlabel.in→</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+
 **SGIHPBP + DCIAPM**
 
 Production web systems covering education / institutional workflows and public-facing experiences.
